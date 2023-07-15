@@ -4,7 +4,7 @@
 | Docker | Ansible | Jenkins | Powershell | C# | Splunk | MDT |
 
 ## Education
-- Splunk enterprise security (_2023_)
+- Splunk Enterprise Security , Splunk (_2023_)
 - DevOps , Real Time Group (_2021 - 2022_)
 - CCNA , John Bryce (_2013_)								       		
 - MCPD , John Bryce (_2011 - 2013_)	 			        		
