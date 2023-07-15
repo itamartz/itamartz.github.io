@@ -1,13 +1,7 @@
 # DevOps
 
 #### Technical Skills: 
-* Powershell
-* Docker
-* Ansible
-* Jenkins
-* C#
-* Splunk
-* MDT
+| Docker | Ansible | Jenkins | Powershell | C# | Splunk | MDT |
 
 ## Education
 - DevOps , Real Time Group (_2021 - 2022_)
