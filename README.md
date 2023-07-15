@@ -1,12 +1,19 @@
 # DevOps
 
-#### Technical Skills: Powershell, Docker, Ansible, Jenkins, C#, Splunk, MDT.
+#### Technical Skills: 
+* Powershell
+* Docker
+* Ansible
+* Jenkins
+* C#
+* Splunk
+* MDT
 
 ## Education
-- DevOps | Real Time Group (_2021 - 2022_)
-- CCNA   | John Bryce (_2013_)								       		
-- MCPD   | John Bryce (_2011 - 2013_)	 			        		
-- MCSE   | John Bryce (_2009 - 2011_)
+- DevOps , Real Time Group (_2021 - 2022_)
+- CCNA , John Bryce (_2013_)								       		
+- MCPD , John Bryce (_2011 - 2013_)	 			        		
+- MCSE , John Bryce (_2009 - 2011_)
 
 ## Work Experience
 **DevOps Specialist and automation @ Korentec Technologies (_Apr 2020 - Present_)**
@@ -15,6 +22,8 @@
 - Installed, Configured, and Maintain a Docker swarm.
 - Installed, Configured, and Maintain a Splunk multisite cluster.
 - Installed, Configured, and Maintain Templates system for windows images.
+- Test automation using Ansible and Pester.
+- Docs automation using Powershell and Pscibo.
 
 **IT Global System Administrator @ Frutarom LTD (_Dec 2016 -  Apr 2020_)**
 - Working in Enterprise Organization 
