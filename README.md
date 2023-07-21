@@ -18,7 +18,7 @@
 - Installed, Configured, and Maintain a Splunk multisite cluster.
 - Installed, Configured, and Maintain Templates system for windows images.
 - Test automation using Ansible and Pester.
-- Docs automation using Powershell and Pscibo.
+- Docs automation using Ansible, Powershell and Pscibo.
 
 **IT Global System Administrator @ Frutarom LTD (_Dec 2016 -  Apr 2020_)**
 - Working in Enterprise Organization 
@@ -43,11 +43,18 @@
 - User managment - Onbording , Offbording.
 
 ## Projects
-### Splunk
-- Installing Multisite Indexer cluster -  Using Ansible.
-- Installing Multisite Search head cluster - Using Ansible.
--  Upgrade, and configuration.
+### Jenkins And Ansible
+- Installing a Jenkins and Ansible environment - Using Docker, HAProxy.
+- Creating and maintain Jenkins jobs, Updates, etc... 
 
 ### Horizon VDI
 - Install and Configure Vmware horizon, Using Ansible.
-- Install and Configure New VCenter automatically 
+- Install and Configure New VCenter automatically, Using Powercli, vcsa-deploy
+
+### Splunk
+- Installing Multisite Indexer cluster. -  Using Ansible.
+- Installing Multisite Search head cluster - Using Ansible.
+- Upgrade, and configuration.
+
+### Golden Image
+- Creating and Configure golden image for a global company - Using MDT, DFSR
