@@ -43,6 +43,10 @@
 - User managment - Onbording , Offbording.
 
 ## Projects
+### 2 Go
+- A Jenkins in a container that have all the plugins already set
+- A Ansible in a container that have all the collections already set
+ 
 ### Jenkins And Ansible
 - Installing a Jenkins and Ansible environment - Using Docker, HAProxy.
 - Creating and maintain Jenkins jobs, Updates, etc... 
