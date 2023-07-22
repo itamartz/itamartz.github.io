@@ -58,7 +58,8 @@
 ### Splunk
 - Installing Multisite Indexer cluster. -  Using Ansible.
 - Installing Multisite Search head cluster - Using Ansible.
+- Installing and configuring a Splunk Enterprise Security (SIEM).
 - Upgrade, and configuration.
 
 ### Golden Image
-- Creating and Configure golden image for a global company - Using MDT, DFSR
+- Creating and Configure golden image for a global company and VDI - Using MDT, DFSR
