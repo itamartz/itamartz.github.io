@@ -57,7 +57,7 @@
 - Install and Configure New VCenter automatically, Using Powercli, vcsa-deploy
 
 ### Splunk
-- Installing Multisite Indexer cluster. -  Using Ansible.
+- Installing Multisite Indexer cluster -  Using Ansible.
 - Installing Multisite Search head cluster - Using Ansible.
 - Installing and configuring a Splunk Enterprise Security (SIEM).
 - Upgrade, and configuration.
