@@ -1,7 +1,7 @@
 # DevOps
 
 #### Technical Skills: 
-| Docker | Ansible | Jenkins | Powershell | C# | Splunk | MDT |
+| Docker | Ansible | Jenkins | Git | Powershell | C# | Splunk | MDT |
 
 ## Education
 - Splunk Enterprise Security , Splunk (_2023_)
@@ -43,11 +43,12 @@
 - User managment - Onbording , Offbording.
 
 ## Projects
+
 ### 2 Go
-- A Jenkins in a container that have all the plugins already set
-- A Ansible in a container that have all the collections already set
+- A Jenkins in a container that have all the plugins already set - Using Github Action
+- A Ansible in a container that have all the collections already set - Using Github Action
  
-### Jenkins And Ansible
+### Jenkins Ansible And Docker
 - Installing a Jenkins and Ansible environment - Using Docker, HAProxy.
 - Creating and maintain Jenkins jobs, Updates, etc... 
 
