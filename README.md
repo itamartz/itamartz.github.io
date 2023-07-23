@@ -63,4 +63,4 @@
 - Upgrade, and configuration.
 
 ### Golden Image
-- Creating and Configure golden image for a global company and VDI - Using MDT, DFSR
+- Creating and configuring a windows golden image for VDI and workstations - Using MDT, DFSR
