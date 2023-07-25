@@ -1,4 +1,6 @@
 # DevOps
+I started my journey as a SysAdmin and worked myself into the DevOps team. 
+I love Docker Ansible and Jenkins and Powershell.
 
 #### Technical Skills: 
 | Docker | Ansible | Jenkins | Git | Powershell | C# | Splunk | MDT |
@@ -62,5 +64,13 @@
 - Installing and configuring a Splunk Enterprise Security (SIEM).
 - Upgrade, and configuration.
 
-### Golden Image
+### Golden Image And Templates
 - Creating and configuring a windows golden image for VDI and workstations - Using MDT, DFSR
+- Creating and configuring a windows Templates -  Using Ansible.
+- Creating and configuring a Linux Templates -  Using Ansible.
+
+
+### Upgrade Windows Operating System
+ - Upgrade Windows 7 to Windows 10
+ - Upgrade Windows 10 to latest version
+
