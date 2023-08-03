@@ -3,7 +3,7 @@ I started my journey as a SysAdmin and worked myself into the DevOps team.
 I love Docker Ansible Jenkins and Powershell.
 
 #### Technical Skills: 
-| Docker | Ansible | Jenkins | Git | Powershell | C# | Splunk | MDT |
+Docker | Ansible | Jenkins | Git | Powershell | C# | Splunk | MDT
 
 ## Education
 - Splunk Enterprise Security , Splunk (_2023_)
